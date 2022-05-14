@@ -1,1 +1,1 @@
-# This system can be used for segmantating objects from real-time video 
+# This system can be used for segmenting objects from real-time video 
